@@ -1,4 +1,4 @@
-# Machine Learning Projects Portfolio
+# Machine Learning Projects
 
 A collection of machine learning algorithms implemented from scratch in Python, demonstrating fundamental ML concepts without relying on high-level libraries.
 
@@ -74,4 +74,5 @@ python Logic-Gate-Classification/2input-OR-Function.py
 - Linear regression mathematics
 - Neural network fundamentals
 - Gradient descent and backpropagation
+
 - Activation functions and their applications
